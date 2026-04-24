@@ -2,7 +2,8 @@
 
 **Self-Pruning Neural Network on CIFAR-10**  
 Tredence AI Engineering Intern – Case Study  
-Author: Harpreet Kour | [github.com/Lavi-hk](https://github.com/Lavi-hk)
+Author: Harpreet Kour | [github.com/Lavi-hk](https://github.com/Lavi-hk)  
+CGPA: 9.10/10
 
 ---
 
