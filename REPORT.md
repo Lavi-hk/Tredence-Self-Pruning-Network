@@ -1,6 +1,6 @@
 # Self-Pruning Neural Network – Case Study Report
 **Tredence AI Engineering Intern | Harpreet Kour**  
-**CGPA: 9.10/10**
+**CGPA: 9.10/10**  
 GitHub: [github.com/Lavi-hk](https://github.com/Lavi-hk)
 
 ---
