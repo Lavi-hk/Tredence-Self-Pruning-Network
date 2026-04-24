@@ -12,8 +12,8 @@ env/
 data/
 
 # Images
-*.png
 *.jpg
+!gate_distributions.png
 
 # IDE
 .vscode/
