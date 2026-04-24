@@ -2,6 +2,7 @@
 Self-Pruning Neural Network on CIFAR-10
 Tredence AI Engineering Intern – Case Study
 Author: Harpreet Kour | github.com/Lavi-hk
+CGPA: 9.10
 
 KEY FIX over previous version:
   - gate_scores init = +3.0  →  sigmoid(3) ≈ 0.95  (gates start near 1, λ drives them to 0)
